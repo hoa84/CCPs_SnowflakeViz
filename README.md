@@ -1,5 +1,5 @@
 /*
-** Correlation Coordinates Plots
+** Correlation Coordinates Plots - Snowflake Vizualization
 ** Copyright (C) 2014 - Hoa Nguyen - Paul Rosen
 */
 
