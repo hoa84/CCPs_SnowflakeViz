@@ -10,7 +10,7 @@
   
   1. Download Processing software by visiting http://www.processing.org
 
-  2. Open ccpSample.pde file in Processing and execute using Java mode. Now 
+  2. Open CCPs_SnowflakeViz.pde file in Processing and execute using Java mode. Now 
   you can explore Correlation Coordinate Plots and Snowflake visualization.
 
 *** How to use ***
